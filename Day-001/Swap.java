@@ -10,8 +10,8 @@ public class Swap {
         a = b;
         b = temp;
 
-        System.out.println(a);
-        System.out.println(b);
+        System.out.println("a = " + a);
+        System.out.println("b = " + b);
 
     }
 

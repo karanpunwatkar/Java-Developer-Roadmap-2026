@@ -16,7 +16,7 @@ public class Calculator {
         System.out.println("Subtraction = " + (a - b));
         System.out.println("Multiplication = " + (a * b));
 
-        if(b != 0) {
+        if (b != 0) {
             System.out.println("Division = " + (a / b));
         } else {
             System.out.println("Cannot divide by zero");
